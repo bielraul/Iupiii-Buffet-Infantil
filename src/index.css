@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Great Vibes", cursive;
+  
+  --color-brand-primary: #A07850;
+  --color-brand-beige: #fef9f1;
+  --color-brand-dark: #2c1600;
+  --color-brand-surface: #EDE8E1;
+
+  --animate-float: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-brand-beige text-brand-dark font-sans antialiased;
+  }
+}
+
+@layer utilities {
+  .text-glow {
+    text-shadow: 0 0 20px rgba(160, 120, 80, 0.3);
+  }
+  .glass {
+    @apply bg-white/70 backdrop-blur-md border border-white/20;
+  }
+}

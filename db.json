@@ -1,0 +1,46 @@
+{
+  "galeria": [
+    {
+      "id": "1",
+      "url": "https://picsum.photos/seed/festa1/800/600",
+      "legenda": "Diversão garantida na Unidade São Miguel!",
+      "unidade": "sao-miguel",
+      "ordem": 1,
+      "dataCriacao": "2024-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "url": "https://picsum.photos/seed/festa2/800/600",
+      "legenda": "Decoração mágica e cheia de detalhes.",
+      "unidade": "vila-americana",
+      "ordem": 1,
+      "dataCriacao": "2024-01-02T10:00:00Z"
+    }
+  ],
+  "depoimentos": [
+    {
+      "id": "1",
+      "nome": "Carla Oliveira",
+      "texto": "A festa da minha filha foi impecável! A equipe é muito carinhosa e a comida deliciosa.",
+      "nota": 5,
+      "url_foto": "https://i.pravatar.cc/150?u=carla",
+      "data_criacao": "2024-01-01T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "nome": "Ricardo Santos",
+      "texto": "Melhor buffet da Vila Americana. Espaço amplo e atrações incríveis para as crianças.",
+      "nota": 5,
+      "url_foto": "https://i.pravatar.cc/150?u=ricardo",
+      "data_criacao": "2024-01-05T15:00:00Z"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "admin@iupiii.com",
+      "senha": "$2y$10$8wG3J7z8XQ/hU/U6OQ/8.uXkX7WvFv/XG7vR1v8f1v8f1v8f1v8f1",
+      "nome": "Administrador"
+    }
+  ]
+}
