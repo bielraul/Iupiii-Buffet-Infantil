@@ -2,31 +2,45 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Nome do Projeto
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-Aplicação web desenvolvida com foco em experiência moderna, performance e interface intuitiva.
+# Iupiii Buffet Infantil
+
+Site institucional moderno desenvolvido para o **Iupiii Buffet Infantil**, com foco em experiência do usuário, identidade visual elegante e apresentação profissional dos serviços e unidades do buffet.
 
 ## 🚀 Tecnologias Utilizadas
 
-- React
-- Vite
-- TypeScript
-- Tailwind CSS
-- Gemini API
-- Node.js
+* React
+* Vite
+* TypeScript
+* Tailwind CSS
+* Node.js
+* Gemini API
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido com o objetivo de criar uma aplicação moderna e responsiva, utilizando tecnologias atuais do ecossistema front-end.
+O projeto foi desenvolvido com o objetivo de criar uma presença digital moderna e atrativa para o buffet infantil **Iupiii**, valorizando a experiência visual, responsividade e navegação intuitiva.
 
-A aplicação possui integração com IA através da Gemini API, oferecendo funcionalidades inteligentes e uma experiência dinâmica para o usuário.
+A aplicação possui um design elegante e responsivo, pensado para transmitir diversão, confiança e profissionalismo para os clientes do buffet.
+
+Entre os principais recursos do projeto estão:
+
+* Página institucional moderna
+* Galeria de fotos
+* Sessão de depoimentos
+* Informações das unidades
+* Layout responsivo
+* Interface otimizada para dispositivos móveis
+* Estrutura preparada para integração com painel administrativo
 
 ## ⚙️ Como Executar Localmente
 
 ### Pré-requisitos
 
-- Node.js instalado
-- npm ou yarn
+* Node.js instalado
+* npm ou yarn
 
 ### Instalação
 
@@ -50,11 +64,11 @@ npm run dev
 
 ## 📷 Preview
 
-Adicione screenshots ou GIFs do projeto aqui.
+Adicione screenshots do projeto ou link da versão online aqui.
 
 ## 👨‍💻 Autor
 
 Gabriel Marcolino de Oliveira
 
-- LinkedIn: https://www.linkedin.com/in/gabriel-marcolino-de-oliveira-29b706197
-- GitHub: https://github.com/gabrielmarcolinooo
+* LinkedIn: https://www.linkedin.com/in/gabriel-marcolino-de-oliveira-29b706197
+* GitHub: https://github.com/gabrielmarcolinooo
