@@ -2,10 +2,6 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Iupiii Buffet Infantil
 
 Site institucional moderno desenvolvido para o **Iupiii Buffet Infantil**, com foco em experiência do usuário, identidade visual elegante e apresentação profissional dos serviços e unidades do buffet.
